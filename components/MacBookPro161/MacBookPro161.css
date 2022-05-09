@@ -1,0 +1,50 @@
+.macbook-pro-16-1 {
+  align-items: flex-start;
+  background-color: #000000;
+  display: flex;
+  height: 1148px;
+  padding: 132px 144px;
+  width: 1728px;
+}
+
+.group {
+  height: 852px;
+  width: 423px;
+}
+
+.flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 231px;
+  margin-top: 265.5px;
+  min-height: 195px;
+  width: 594px;
+}
+
+.group-1 {
+  height: 78px;
+  margin-right: 0;
+  width: 594px;
+}
+
+.hanso-bank {
+  height: 1px;
+  margin-left: 53.51px;
+  margin-top: 116px;
+  width: 1px;
+}
+
+.component-1 {
+  cursor: pointer;
+  height: 78px;
+  margin-left: 114px;
+  margin-top: 414.65px;
+  transition: all 3s ease;
+  width: 68px;
+}
+
+.component-1:hover {
+  transform: rotate(15deg);
+}
+
